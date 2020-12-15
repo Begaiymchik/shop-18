@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2020 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="facebook" unicode="&#xf09a;" d="M535 843v-147h-87q-48 0-65-20t-17-60v-106h164l-22-165h-142v-424h-171v424h-142v165h142v122q0 104 58 161t155 57q82 0 127-7z" horiz-adv-x="571.4" />
+
+<glyph glyph-name="pinterest" unicode="&#xf231;" d="M0 517q0 60 21 113t58 93 85 69 103 44 113 14q88 0 164-37t123-108 47-160q0-54-10-105t-34-99-56-83-80-58-106-21q-38 0-75 18t-54 49q-5-22-15-63t-14-53-11-40-15-39-17-35-26-44-35-48l-7-3-5 6q-9 88-9 105 0 51 12 115t37 161 29 113q-18 36-18 94 0 47 29 87t74 41q34 0 53-23t19-57q0-37-24-106t-25-105q0-35 25-58t61-23q31 0 57 14t44 38 31 53 21 61 11 62 4 56q0 96-61 150t-160 54q-111 0-186-72t-75-183q0-25 7-48t15-36 15-26 7-17q0-15-8-40t-21-25q-1 0-9 1-29 9-51 31t-34 53-18 60-6 60z" horiz-adv-x="714.3" />
+
+<glyph glyph-name="instagram" unicode="&#xf32d;" d="M690 350q0 26-6 50l176 0 0-344q0-56-39-96t-95-40l-592 0q-56 0-95 40t-39 96l0 344 174 0q-4-32-4-50 0-106 76-183t184-77q106 0 183 77t77 183z m36 430q56 0 95-39t39-95l0-146-218 0q-78 110-212 110-138 0-212-110l-218 0 0 146q0 56 39 95t95 39l592 0z m64-166l0 72q0 24-24 24l-72 0q-24 0-24-24l0-72q0-8 7-16t17-8l72 0q24 0 24 24z m-200-264q0-66-47-113t-113-47-113 47-47 113q0 68 47 114t113 46 113-46 47-114z" horiz-adv-x="860" />
+</font>
+</defs>
+</svg>
